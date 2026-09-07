@@ -1,0 +1,9 @@
+{
+  "version": "2.3.1",
+  "firmware": "https://raw.githubusercontent.com/klabtek/iemp-firmware/main/firmware.bin",
+  "release_date": "2026-09-07",
+  "mandatory": false,
+  "notes": "Initial IEMP firmware with dew point and new Blynk integration",
+  "size": 1266624,
+  "md5": "2e0f03ae0d1cb632a571d2004a1bc5f2"
+}
