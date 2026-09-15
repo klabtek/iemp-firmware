@@ -1,9 +1,9 @@
 {
-  "version": "2.5.4",
+  "version": "2.5.5",
   "firmware": "https://raw.githubusercontent.com/klabtek/iemp-firmware/main/firmware.bin",
-  "release_date": "2026-09-13",
+  "release_date": "2026-09-15",
   "mandatory": false,
   "notes": "System improvements, feature updates, and stability enhancements.",
-  "size": 1343616,
-  "md5": "0be93ce19120de73e74931c4d4361ffd"
+  "size": 1343504,
+  "md5": "c3614a067cc0fca6ce0f695c23010516"
 }
